@@ -1,7 +1,5 @@
 ---
-dg-publish: true
-dg-home-link: true
-dg-show-toc: true
+draft: true
 tags:
 ---
 # The Intersection of Art and Programming

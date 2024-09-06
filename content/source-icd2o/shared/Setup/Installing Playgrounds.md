@@ -1,7 +1,5 @@
 ---
-dg-publish: true
-dg-home-link: true
-dg-show-toc: false
+draft: true
 tags:
 ---
 # Installing Playgrounds

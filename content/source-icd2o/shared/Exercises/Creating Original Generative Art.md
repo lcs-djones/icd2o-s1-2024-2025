@@ -1,7 +1,5 @@
 ---
-dg-publish: true
-dg-home-link: true
-dg-show-toc: true
+draft: true
 tags:
   - A1.2
   - A1.3

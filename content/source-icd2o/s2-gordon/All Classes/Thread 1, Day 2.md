@@ -12,9 +12,9 @@ tags:
 1. Tutorial: [[Syncing Files from Cloud Storage]]
 1. Portfolio: [[Creating a Notion Account]]
 1. Tutorial: [[Creating Bookmarks]] 
-1. Portfolio: [[First Post]]
+1. Portfolio: [[First Entry]]
 1. Tutorial: [[Hot Corners]]
 
 ## Things to do before our next class
-- [ ] Be sure you have [[First Post|written your first portfolio post]] to introduce yourself and identify your areas of interest.
+- [ ] Be sure you have [[First Portfolio Entry|written your first portfolio post]] to introduce yourself and identify your areas of interest.
 - [ ] Complete the tutorials and share evidence of that progress in a second portfolio post [on Notion](https://notion.so).

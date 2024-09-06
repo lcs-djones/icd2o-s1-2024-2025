@@ -1,7 +1,4 @@
 ---
-dg-publish: true
-dg-home-link: true
-dg-show-toc: true
 tags:
   - A1.1
   - A1.2

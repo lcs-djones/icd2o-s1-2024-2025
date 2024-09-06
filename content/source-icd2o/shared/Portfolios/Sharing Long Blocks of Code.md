@@ -1,7 +1,5 @@
 ---
-dg-publish: true
-dg-home-link: true
-dg-show-toc: true
+draft: true
 tags:
 ---
 # Sharing Long Blocks of Code
