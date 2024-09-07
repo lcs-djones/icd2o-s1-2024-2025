@@ -4,7 +4,6 @@ tags:
   - C1.1
   - C1.2
 ---
-# Parsing Instructions
 
 In this activity, we first asked the class to give the "computer" instructions to tie their shoelaces.
 

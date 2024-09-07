@@ -3,7 +3,6 @@ draft: true
 tags:
   - B2.1
 ---
-# Syncing Files from Cloud Storage
 
 ## Local storage
 

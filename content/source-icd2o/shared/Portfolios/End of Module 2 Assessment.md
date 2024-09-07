@@ -2,7 +2,6 @@
 draft: true
 tags:
 ---
-# End of Module 2 Assessment
 
 ## Purpose
 

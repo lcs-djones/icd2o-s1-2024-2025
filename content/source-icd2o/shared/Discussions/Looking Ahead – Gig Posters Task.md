@@ -2,8 +2,6 @@
 draft: true
 tags:
 ---
-# Looking Ahead: Gig Posters Task
-
 Here are a few examples of what students authored in this module of the course last year:
 
 ![[a.png|500]]

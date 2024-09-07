@@ -5,9 +5,6 @@ tags:
   - C1.3
   - C1.4
 ---
-
-# Functions and Expressions
-
 ## Objects in 3D Space
 
 Objects in Alice have a centre point.

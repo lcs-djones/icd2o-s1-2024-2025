@@ -2,7 +2,6 @@
 draft: true
 tags:
 ---
-# App Development Partnership
 
 ## Objective
 

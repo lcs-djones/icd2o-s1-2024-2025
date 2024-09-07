@@ -2,7 +2,6 @@
 draft: true
 tags:
 ---
-# Initial Assessment
 
 ## Purpose
 

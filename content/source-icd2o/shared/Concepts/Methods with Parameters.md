@@ -5,9 +5,6 @@ tags:
   - C3.2
   - C3.3
 ---
-
-# Methods with Parameters 
-
 ## Connection to earlier learning
 
 Earlier this year, we learned how to use *functions*.

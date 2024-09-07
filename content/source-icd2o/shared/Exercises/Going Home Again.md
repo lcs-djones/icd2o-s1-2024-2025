@@ -3,7 +3,6 @@ draft: true
 tags:
   - C3.3
 ---
-# Going Home Again
 
 ## Setup
 

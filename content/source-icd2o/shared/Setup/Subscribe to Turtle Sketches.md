@@ -2,7 +2,6 @@
 draft: true
 tags:
 ---
-# Subscribe to Turtle Sketches
 
 After [[Installing Playgrounds|installing the Playgrounds app]] on your Mac, please use the ==Safari== web browser to [follow this link and subscribe to the Turtle Sketches](https://developer.apple.com/ul/sp0?url=https://russellgordon.ca/turtle-sketches/feed.json) playgrounds authored by Mr. Gordon.
 

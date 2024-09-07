@@ -17,7 +17,6 @@ tags:
   - C2.7
   - C3.3
 ---
-# Gig Poster
 
 ## Objective
 Loosely follow the [style of Swiss modernism as illustrated by Mike Joyce's work](https://www.swissted.com) and create your own custom gig poster for an [actual concert that has occured in the past](https://www.concertarchives.org) for a given band or musical artist that you like.

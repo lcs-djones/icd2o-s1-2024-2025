@@ -3,7 +3,6 @@ draft: true
 tags:
   - C2.7
 ---
-# Well Formatted Code
 
 Code should be written so that it is easily read by humans.
 

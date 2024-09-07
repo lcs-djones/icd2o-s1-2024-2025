@@ -10,7 +10,6 @@ tags:
   - C2.7
   - C3.3
 ---
-# Superdrag 
 
 Reproduce the following gig poster:
 

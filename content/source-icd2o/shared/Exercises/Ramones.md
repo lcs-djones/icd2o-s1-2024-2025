@@ -10,7 +10,6 @@ tags:
   - C2.6
   - C2.7
 ---
-# Ramones
 
 Reproduce the following gig poster:
 

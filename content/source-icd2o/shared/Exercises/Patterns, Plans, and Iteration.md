@@ -9,7 +9,6 @@ tags:
   - C2.6
   - C2.7
 ---
-# Patterns, Plans, and Iteration
 
 ## Making a plan
 

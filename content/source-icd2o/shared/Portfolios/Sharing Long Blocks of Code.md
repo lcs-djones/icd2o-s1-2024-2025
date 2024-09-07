@@ -2,7 +2,6 @@
 draft: true
 tags:
 ---
-# Sharing Long Blocks of Code
 
 ## Why it's helpful
 

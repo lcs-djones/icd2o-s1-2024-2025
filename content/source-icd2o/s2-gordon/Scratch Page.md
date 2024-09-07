@@ -3,8 +3,6 @@ excludeFromExplorer: true
 draft: true
 ---
 
-# Scratch page
-
 This page is a place to place text or other bits of information in, temporarily.
 
 ## SIC Drop-In Sessions

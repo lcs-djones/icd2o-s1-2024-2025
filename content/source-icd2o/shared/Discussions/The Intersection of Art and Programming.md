@@ -2,8 +2,6 @@
 draft: true
 tags:
 ---
-# The Intersection of Art and Programming
-
 ## A profile of one graduate
 
 Writing code is an abstract task.

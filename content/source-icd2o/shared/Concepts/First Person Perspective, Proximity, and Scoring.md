@@ -6,9 +6,6 @@ tags:
   - C2.4
   - C2.5
 ---
-
-# First Person Perspective, Proximity, and Scoring
-
 ## Overview
 
 To explore a 3D world interactively – as in a game – the "hero" character needs to be able to move through a scene.

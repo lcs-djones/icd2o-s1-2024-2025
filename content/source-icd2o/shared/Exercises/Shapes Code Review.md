@@ -3,7 +3,6 @@ draft: true
 tags:
   - C2.7
 ---
-# Shapes Code Review
 
 In this activity, we reviewed the code authored by another student for the [[Shapes]] activity from a previous class.
 

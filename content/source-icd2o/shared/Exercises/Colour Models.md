@@ -2,7 +2,7 @@
 draft: true
 tags:
 ---
-# Colour Models
+
 ## The RGB Colour Model
 
 RGB stands for red, green, and blue.

@@ -2,7 +2,6 @@
 draft: true
 tags:
 ---
-# Getting Started with Alice
 
 ## Introduction
 

@@ -4,7 +4,6 @@ tags:
   - B1.3
   - B2.1
 ---
-# Keyboard Shortcuts
 
 In this activity, you will learn more about common *keyboard shortcuts* available on macOS.
 

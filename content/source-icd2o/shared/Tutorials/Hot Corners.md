@@ -3,7 +3,6 @@ draft: true
 tags:
   - B2.3
 ---
-# Hot corners
 
 ## Why use hot corners?
 

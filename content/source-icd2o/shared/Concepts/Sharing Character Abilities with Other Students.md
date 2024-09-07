@@ -7,9 +7,6 @@ tags:
   - C3.4
   - C3.5
 ---
-
-# Sharing Character Abilities with Other Students
-
 ## Classes 
 
 In Alice, a **class** can be thought of like a blueprint.

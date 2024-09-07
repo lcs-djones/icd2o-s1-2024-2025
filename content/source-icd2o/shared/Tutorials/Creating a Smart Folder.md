@@ -3,7 +3,6 @@ draft: true
 tags:
   - B1.3
 ---
-# Creating a Smart Folder
 
 A *smart folder* on macOS is essentially a saved search.
 

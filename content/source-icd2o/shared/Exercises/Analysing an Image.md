@@ -11,8 +11,6 @@ tags:
   - C2.4
   - C2.6
 ---
-# Analysing an Image
-
 ## Objective
 
 Roughly reproduce a photograph using the Turtle Sketches enviroment.

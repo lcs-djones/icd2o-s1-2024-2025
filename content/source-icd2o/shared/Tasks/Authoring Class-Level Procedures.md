@@ -16,7 +16,6 @@ tags:
   - C3.4
   - C3.5
 ---
-# Authoring Class-Level Procedures
 
 ## Objective
 

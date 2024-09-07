@@ -3,8 +3,6 @@ draft: true
 tags: 
   - C1.3
 ---
-# Abstraction and Binary Numbers
-
 Quick, what number is this?
 
 $$101$$

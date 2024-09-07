@@ -12,7 +12,6 @@ tags:
   - C2.6
   - C2.7
 ---
-# Creating Original Generative Art
 
 ## Objectives
 

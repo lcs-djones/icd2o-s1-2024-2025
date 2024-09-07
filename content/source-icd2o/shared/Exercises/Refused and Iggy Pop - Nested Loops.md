@@ -9,7 +9,6 @@ tags:
   - C2.6
   - C2.7
 ---
-# Refused & Iggy Pop - Nested Loops
 
 We have already seen how a loop can be used to *iterate* over a block of code to create a repeated pattern.
 
