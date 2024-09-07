@@ -1,1 +1,1 @@
-/Users/rgordon/Dropbox/ICD2O-S2-Website/quartz/content/source-icd2o/s1-jones/Scratch Page.md
+/Users/rgordon/Dropbox/ICD2O-S1-Website/quartz/content/source-icd2o/s1-jones/Scratch Page.md
