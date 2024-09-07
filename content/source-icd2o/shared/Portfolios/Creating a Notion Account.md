@@ -3,7 +3,7 @@ created: 2024-09-06T00:00:00.000-0400
 tags:
 ---
 
-## What is Notion?
+## What is Notion???
 
 Notion is a combination of traditional note-taking software and something called a database.
 
