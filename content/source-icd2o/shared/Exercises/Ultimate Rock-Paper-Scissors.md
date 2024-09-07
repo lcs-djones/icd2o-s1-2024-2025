@@ -4,7 +4,7 @@ created: 2024-09-06T00:00:00.000-0400
 tags:
   - C1.1
 ---
-## Gameplay
+## Gameplay!
 
 We broke into pairs and played [Rock-Paper-Scissors](https://wrpsa.com/the-official-rules-of-rock-paper-scissors/).
 
