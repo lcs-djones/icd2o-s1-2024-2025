@@ -10,4 +10,4 @@ tags:
 1. Portfolio: [[First Entry]]
 
 ## Things to do before our next class
-- [ ] Be sure you have [[First Post|written your first portfolio post]] to introduce yourself and identify your areas of interest.
+- [ ] Be sure you have [[First Entry|written your first portfolio post]] to introduce yourself and identify your areas of interest.
