@@ -2,11 +2,8 @@
 excludeFromExplorer: true
 enableToc: false
 excludeBacklinks: true
-<<<<<<< HEAD
 created: 2024-09-06T00:00:00.000-0400
 createdForSectionTwo: 2024-09-06T00:00:00.000-0400
-=======
->>>>>>> 132234bba91adeeefc219badf59a4abb48641cf3
 ---
 
 For all learning goals below, we will engage in further discussion.
