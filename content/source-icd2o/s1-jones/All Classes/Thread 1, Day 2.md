@@ -8,7 +8,12 @@ excludeBacklinks: true
 tags:
 ---
 ## Agenda
-1. Activity: [[Parsing Instructions]]
-2. Task: [[Name Plate]]
+1. Tutorial: Taking Screenshots 🫥⬅️
+5. Portfolio: Sharing Evidence 🫥⬅️
+6. Tutorial: [[Syncing Files from Cloud Storage]]
+7. Tutorial: [[Creating Bookmarks]] 
+8. Tutorial: [[Hot Corners]]
+
 ## Things to do before our next class
-- [ ] Complete the Name Plate task and share evidence of that progress in your portfolio [on Notion](https://notion.so).
+- [ ] If not completed in class, finish the items listed above.
+- [ ] Share evidence of your progress from today's class in your portfolio [on Notion](https://notion.so) – remember to [[Taking Screenshots|include screenshots]].
