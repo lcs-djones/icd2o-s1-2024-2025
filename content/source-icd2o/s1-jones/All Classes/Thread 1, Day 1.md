@@ -9,7 +9,7 @@ excludeFromExplorer: true
 tags:
 ---
 ## Agenda
-1. Activity: Parsing Instructions
+1. Activity: [[Parsing Instructions]]
 1. Setup: [[Installing Playgrounds]]
 1. Setup: [[Subscribe to Turtle Sketches]]
 1. Task: [[Name Plate]]
