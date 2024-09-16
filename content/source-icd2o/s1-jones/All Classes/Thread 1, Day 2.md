@@ -1,8 +1,8 @@
 ---
-transcludeTitleSize: h2
-created: 2024-09-17T00:00:00.000-0400
 draft: true
 draftSectionTwo: true
+created: 2024-09-17T00:00:00.000-0400
+transcludeTitleSize: h2
 enableToc: false
 excludeBacklinks: true
 tags:
