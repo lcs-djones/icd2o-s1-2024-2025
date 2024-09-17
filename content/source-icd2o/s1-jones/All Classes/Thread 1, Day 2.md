@@ -13,4 +13,3 @@ tags:
 
 ## Things to do before our next class
 - [ ] If not completed in class, finish the items listed above.
-- [ ] Share evidence of your progress from today's class in your portfolio [on Notion](https://notion.so) – remember to [[Taking Screenshots|include screenshots]].
