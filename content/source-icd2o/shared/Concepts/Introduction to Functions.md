@@ -83,3 +83,7 @@ Make a playground that uses the `star` function and a loop to draw many stars wi
 
 > [!NOTE]
 > This exercise assumes that you have completed the steps described in [[Introduction to Loops]].
+
+Here is one example – see if you could create even more stars!
+
+![[Screenshot 2024-09-18 at 7.44.19 AM.png]]
