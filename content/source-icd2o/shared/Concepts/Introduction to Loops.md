@@ -16,7 +16,7 @@ If we wanted someone to walk 5 steps toward us, it's easier to say just that –
 In the same way, we can use a loop to have a computer repeat an instruction – or a block of multiple instructions – more than once.
 ## Creating a loop
 
-To make a function in Swift Playgrounds, just begin typing the keyword `for`, and then press the **Return** key to use autocomplete:
+To make a loop in Swift Playgrounds, just begin typing the keyword `for`, and then press the **Return** key to use autocomplete:
 
 ![[Screenshot 2023-09-21 at 1.15.51 PM.png]]
 
