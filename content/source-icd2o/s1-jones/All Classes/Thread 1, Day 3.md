@@ -15,4 +15,4 @@ tags:
 5. Concept: [[Introduction to Functions]]
 6. Exercise: [[Shapes]]
 ## Things to do before our next class
-- [ ] Do your best to complete the concept exploration and the shapes exercise.
+- [ ] Do your best to complete the concept explorations and the shapes exercise.
