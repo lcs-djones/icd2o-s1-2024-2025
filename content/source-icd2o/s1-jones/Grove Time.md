@@ -2,6 +2,13 @@
 excludeFromExplorer: true
 ---
 
-> [!NOTE]
-> 
-> The schedule for Mr. Jones' Grove Time offerings for the week of September 16, 2024 will be posted soon.
+Mr. Jones is available at these times this week:
+
+Day|Time|Location
+-|-|-
+Thursday|1:00 PM to 1:30 PM|Room 6
+Friday|1:00 PM to 1:30 PM|Room 6
+
+Grove Time is a drop-in, no appointment needed.
+
+If you have a question, **don't hesitate**, come on by!

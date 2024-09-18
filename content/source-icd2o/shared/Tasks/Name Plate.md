@@ -49,3 +49,11 @@ If you finish drawing your name using stick letters, try drawing your name using
 3. How might a plan be useful for debugging a logical error?
 
 On the back of your plan made on paper, please respond in point form or sentence form to the prompts given above. Hold on to these responses until our next class – you will need them then.
+
+## Portfolio Entry
+
+If you visit your portfolio in Notion, you'll see this entry waiting to be completed:
+
+![[Screenshot 2024-09-17 at 9.27.15 PM.png]]
+
+Please complete that entry now.
