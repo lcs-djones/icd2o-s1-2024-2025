@@ -19,10 +19,11 @@ Friday, May 3|12:30 PM to 1:30 PM|Quin|Room 36
 
 ## Agenda
 1. Tutorial: Taking Screenshots 🫥⬅️
-5. Portfolio: Sharing Evidence 🫥⬅️
-6. Tutorial: [[Syncing Files from Cloud Storage]]
-7. Tutorial: [[Creating Bookmarks]] 
-8. Tutorial: [[Hot Corners]]
+5. 
+6. Concept: [[Functions with Parameters]] 🫥⬅️
+7. Tutorial: [[Syncing Files from Cloud Storage]]
+8. Tutorial: [[Creating Bookmarks]] 
+9. Tutorial: [[Hot Corners]]
 
 ## Things to do before our next class
 - [ ] If not completed in class, finish the items listed above.
