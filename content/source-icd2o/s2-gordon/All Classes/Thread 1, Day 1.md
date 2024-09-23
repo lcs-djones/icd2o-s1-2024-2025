@@ -10,7 +10,7 @@ tags:
 ## Agenda
 1. Portfolio: [[Creating a Notion Account]]
 1. Portfolio: [[First Entry]]
-1. Tutorial: Taking Screenshots 🫥⬅️
+1. Tutorial: [[Taking Screenshots]]
 1. Tutorial: [[Syncing Files from Cloud Storage]]
 1. Tutorial: [[Creating Bookmarks]] 
 1. Tutorial: [[Hot Corners]]

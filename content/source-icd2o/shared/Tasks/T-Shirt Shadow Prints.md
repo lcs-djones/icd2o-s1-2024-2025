@@ -22,7 +22,7 @@ Create a design that when inverted, will look appealing when [printed with sunli
 
 - [ ] The [[Installing Playgrounds|Playgrounds app]] installed on your computer
 - [ ] Another copy of the [[Subscribe to Turtle Sketches|Sketches Template added to your list of playgrounds]], renamed to be titled *T-Shirt Shadow Print*
-- [ ] Your black, hardcover, graph paper notebook
+- [ ] Graph paper
 - [ ] Writing instruments, including a ruler or straight edge
 - [ ] An image to reproduce; possibilities include:
 	- [famous landmarks line art](https://duckduckgo.com/?q=famous+landmarks+line+art)

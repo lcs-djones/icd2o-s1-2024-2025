@@ -9,7 +9,7 @@ tags:
 ---
 ## Agenda
 1. Survey: [T-shirt size for upcoming Shadow Prints Task](https://docs.google.com/forms/d/e/1FAIpQLSegH9kDot1RZjn_r4dJlMzG7267IjrS51LQgZUV8AWK5edLHA/viewform)
-1. Concept: [[Functions with Parameters]] 🫥⬅️
+1. Concept: [[Diagonal Turtle Movements]]
 2. Exercise: [[Analysing an Image]]
 ## Things to do before our next class
 - [ ] If not completed in class, finish the items listed above.
