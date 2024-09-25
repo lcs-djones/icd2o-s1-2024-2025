@@ -2,7 +2,7 @@
 excludeFromExplorer: true
 ---
 
-Mr. Jones is available at these times this week:
+Mr. Jones is available at these times:
 
 Day|Time|Location
 -|-|-
