@@ -1,7 +1,7 @@
 ---
 transcludeTitleSize: h2
 created: 2024-09-26T00:00:00.000-0400
-draft: true
+draft: false
 draftSectionTwo: true
 enableToc: false
 excludeBacklinks: true
@@ -9,7 +9,7 @@ tags:
 notes: Remember to add the 'Coding Task - Final Entry' template to each student's portfolio on Notion before this class.
 ---
 ## Agenda
-1. Concept: Rubber Duck Debugging
+1. Concept: [[Rubber Duck Debugging]]
 1. Exercise: [[Going Home Again]]
 2. Task: [[T-Shirt Shadow Prints]]
 ## Things to do before our next class
