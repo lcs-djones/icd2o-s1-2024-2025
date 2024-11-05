@@ -1,6 +1,8 @@
 ---
 draft: false
-draftSectionTwo: true
+draftSectionTwo: false
+created: 2024-09-26T00:00:00.000-0400
+createdForSectionTwo: 2024-10-25T00:00:00.000-0400
 tags:
   - C3.3
 notes: The idea is to have students try out the code and then realize they can add a line of code that moves the turtle back to the origin by multiplying it's current x and y position by -1. Then we can share a playground with them that has a function that moves the turtle back to the origin, using a function (or develop that in class with them). See the Scratch Page for the link to the playground in question, and the code for the function.

@@ -1,7 +1,8 @@
 ---
 draft: false
-draftSectionTwo: true
+draftSectionTwo: false
 created: 2024-09-19T00:00:00.000-0400
+createdForSectionTwo: 2024-10-19T00:00:00.000-0400
 tags:
   - A1.1
   - A1.2
@@ -41,7 +42,18 @@ In this activity, you will work alone to:
 
 ## Image
 
-You have selected an image to reproduce, after consultation with Mr. Jones. This was provided to you as a hardcopy printout.
+You have selected an image to reproduce, after consultation with Mr. Jones or Mr. Gordon. This was provided to you as a hardcopy printout.
+
+For obtaining colours using a `#colorLiteral(`, here are links to the various images provided:
+
+- [[Loops and Functions - Analysis.pdf|Loops and Functions - Analysis]]
+- [[Loops and Functions - Analysis 2.pdf|Loops and Functions - Analysis 2]]
+- [[Loops and Functions - Analysis 3.pdf|Loops and Functions - Analysis 3]]
+- [[Loops and Functions - Analysis 4.pdf|Loops and Functions - Analysis 4]]
+- [[Loops and Functions - Analysis 5.pdf|Loops and Functions - Analysis 5]]
+- [[Loops and Functions - Analysis 6.pdf|Loops and Functions - Analysis 6]]
+- [[Loops and Functions - Analysis 7.pdf|Loops and Functions - Analysis 7]]
+- [[Loops and Functions - Analysis 8.pdf|Loops and Functions - Analysis 8]]
 
 ## Reflection prompts
 

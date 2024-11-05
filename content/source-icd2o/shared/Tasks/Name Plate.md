@@ -1,7 +1,8 @@
 ---
 draft: false
-draftSectionTwo: true
+draftSectionTwo: false
 created: 2024-09-16T00:00:00.000-0400
+createdForSectionTwo: 2024-10-09T00:00:00.000-0400
 tags:
   - C1.1
   - C2.4
@@ -29,7 +30,7 @@ Draw the letters of your name in stick letters, using a hand-drawn plan to help 
 
 Here is an example of a plan for drawing letters with consistent spacing:
 
-![[Plan for drawing name.png]]
+![[Note Sep 20, 2022 Copy.png]]
 
 Note how after a while, shorthand is used to describe turtle movements. This is a good strategy for making a useful plan without taking a lot of time.
 

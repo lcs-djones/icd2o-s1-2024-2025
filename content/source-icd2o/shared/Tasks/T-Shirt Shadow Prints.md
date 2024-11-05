@@ -1,7 +1,8 @@
 ---
 draft: false
-draftSectionTwo: true
+draftSectionTwo: false
 created: 2024-09-26T00:00:00.000-0400
+createdForSectionTwo: 2024-10-25T00:00:00.000-0400
 tags:
   - A1.1
   - A1.2
@@ -19,6 +20,15 @@ tags:
 ## Objective
 
 Create a design that when inverted, will look appealing when [printed with sunlight-activated dye on a T-shirt](https://www.instructables.com/How-Not-to-Create-Lumi-Inkodye-Tee-Shirts/).
+
+Here are some photographs of what this looks like:
+
+![[65AA6B68-71F0-413A-8D1A-D9424AAEFCB6_1_105_c.png]]
+
+![[2.jpeg]]
+
+![[3.jpeg]]
+
 ## What you'll need to begin
 
 - [ ] The [[Installing Playgrounds|Playgrounds app]] installed on your computer
@@ -59,8 +69,6 @@ When you have finished the code for this task, please complete the **Coding Task
 
 ## Due date
 
-![[65AA6B68-71F0-413A-8D1A-D9424AAEFCB6_1_105_c.png]]
-
 ### Section 1: Mr. Jones' class
 
 In order to return completed T-shirts to you before the Thanksgiving Long Weekend, we will need to be transferring prints on the following dates:
@@ -69,14 +77,14 @@ In order to return completed T-shirts to you before the Thanksgiving Long Weeken
 - Thursday October 3
 
 > [!IMPORTANT]
-> That means everyone should aim to complete their [[#Reflection prompts|final portfolio entry for the task]] by Tuesday October 1 at 10 PM, so that Mr. Jones has time to create transparencies of your images so that you can make your shirts. This is a hard deadline, please – no exceptions. 
+> That means everyone must complete their [[#Reflection prompts|final portfolio entry for this task]] by Tuesday October 1 at 10 PM, so that Mr. Jones has time to create transparencies of your images so that you can make your shirts. This is a hard deadline, please – no exceptions. 
 
 ### Section 2: Mr. Gordon's class
 
 In order to return completed T-shirts to you before the November Long Weekend, we will need to be transferring prints on the following dates:
 
-- Wednesday October 30
 - Thursday October 31
+- Friday November 1
 
 > [!IMPORTANT]
-> That means everyone should aim to complete their [[#Reflection prompts|final portfolio entry for the task]] by Tuesday October 29 at 10 PM, so that Mr. Gordon has time to create transparencies of your images so that you can make your shirts. This is a hard deadline, please – no exceptions. 
+> That means everyone must complete their [[#Reflection prompts|final portfolio entry for this task]] by Wednesday October 30 at 10 PM, so that Mr. Gordon has time to create transparencies of your images so that you can make your shirts. This is a hard deadline, please – no exceptions. 

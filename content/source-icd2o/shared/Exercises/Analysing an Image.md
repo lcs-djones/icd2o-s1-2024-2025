@@ -1,7 +1,8 @@
 ---
 draft: false
-draftSectionTwo: true
+draftSectionTwo: false
 created: 2024-09-19T00:00:00.000-0400
+createdForSectionTwo: 2024-10-18T00:00:00.000-0400
 tags:
   - A1.1
   - A1.2
@@ -12,6 +13,7 @@ tags:
   - C2.2
   - C2.4
   - C2.6
+notes: Remember to print files before this activity. See ICD2O/Thread 1/Image Analysis.
 ---
 
 ## Objective

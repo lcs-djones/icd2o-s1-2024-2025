@@ -6,6 +6,10 @@ tags:
 
 This page is a place to place text or other bits of information in, temporarily.
 
+3. Exercise: [[Introduction to Generative Art]]
+	- Use any time that remains to begin working on this task.
+
+
 ## Playground with goToHome function
 
 https://www.russellgordon.ca/lcs/icd2o/GoingHomeAgainComplete.playgroundbook.zip
