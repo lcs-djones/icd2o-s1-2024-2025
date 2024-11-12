@@ -1,6 +1,6 @@
 ---
 draft: false
-draftSectionTwo: true
+draftSectionTwo: false
 created: 2024-11-12T07:00:00.000-0400
 createdForSectionTwo: 2024-11-05T07:00:00.000-0400
 notes: Need to print enough copies of the planning sheet for partners to analyse the poster. See "Blur - Planning Sheet.pdf".
