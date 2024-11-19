@@ -9,7 +9,7 @@ tags:
 ---
 ## Agenda
 1. Tutorial: [[Creating a Smart Folder]]
-	- A super-short tutorial showing how to quickly find a given type of file.
+	- A super-short tutorial showing how to quickly find a given type of file...
 1. Activity: [[The Replacements Gig Poster - Applying Abstraction]]
 	- Learn how to identify repeated elements in a drawing and then apply abstraction by authoring a function. 🚀
 	> [!TODO]
