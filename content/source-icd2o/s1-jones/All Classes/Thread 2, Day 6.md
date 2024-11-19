@@ -1,7 +1,7 @@
 ---
 transcludeTitleSize: h2
 created: 2024-11-19T07:00:00.000-0400
-draft: true
+draft: false
 draftSectionTwo: false
 enableToc: false
 excludeBacklinks: true
