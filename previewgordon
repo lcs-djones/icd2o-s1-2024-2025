@@ -1,0 +1,52 @@
+#!/bin/zsh
+#
+# Remove section specific symlinks
+#
+echo "Removing section-specific symlinks..."
+rm content/All\ Classes 
+rm content/Grove\ Time.md
+rm content/Key\ Links.md 
+rm content/Private\ Notes.md
+rm content/Scratch\ Page.md
+rm content/index.md      
+echo "Done."
+#
+# Add section 2 (Gordon) specific symlinks
+#
+echo "Adding section 2 (Gordon) specific symlinks..."
+cd content
+ln -s source-icd2o/s2-gordon/All\ Classes
+ln -s source-icd2o/s2-gordon/Grove\ Time.md
+ln -s source-icd2o/s2-gordon/Key\ Links.md
+ln -s source-icd2o/s2-gordon/Private\ Notes.md
+ln -s source-icd2o/s2-gordon/Scratch\ Page.md
+ln -s source-icd2o/s2-gordon/index.md
+cd ..
+echo "Done."
+#
+# Set draft status to correct section
+#
+echo "Setting draft post frontmatter tag for section 2 (Gordon)..."
+cp quartz/plugins/filters/draft-s2-gordon.ts quartz/plugins/filters/draft.ts
+echo "Done."
+# ADAPTED FROM: https://rowannicholls.github.io/bash/intro/passing_arguments.html
+#
+# Set defaults
+#
+port="8080"
+#
+# Handle command line arguments passed
+#
+while [[ "$#" -gt 0 ]]
+do case $1 in
+    -p|--port) port="$2"
+    shift;;
+    *) echo "Unknown parameter passed: $1"
+    exit 1;;
+esac
+shift
+done
+#
+# Preview the site
+#
+npx quartz build --serve --port=$port

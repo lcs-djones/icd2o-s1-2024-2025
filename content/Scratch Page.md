@@ -1,1 +1,1 @@
-./source-icd2o/s1-jones/Scratch Page.md
+source-icd2o/s2-gordon/Scratch Page.md

@@ -4,6 +4,11 @@ draft: true
 draftSectionTwo: true
 ---
 
+Day|Time|SIC|Location
+-|-|-|-
+Tuesday|1:00 PM to 1:30 PM|Ben|Room 6
+Wednesday|1:00 PM to 1:30 PM|Nikita|Room 6
+
 This page is a place to place text or other bits of information in, temporarily.
 
 3. Exercise: [[Introduction to Generative Art]]

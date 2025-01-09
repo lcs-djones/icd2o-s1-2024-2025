@@ -1,8 +1,8 @@
 ---
 draft: false
-draftSectionTwo: true
+draftSectionTwo: false
 created: 2024-11-22T07:00:00.000-0400
-createdForSectionTwo: 2024-11-22T07:00:00.000-0400
+createdForSectionTwo: 2024-12-13T07:00:00.000-0400
 tags:
   - A1.1
   - A1.2
@@ -27,7 +27,6 @@ Loosely follow the [style of Swiss modernism as illustrated by Mike Joyce's work
 ## What you'll need to begin
 - [ ] The [[Installing Playgrounds|Playgrounds app]] installed on your computer
 - [ ] Another copy of the [[Subscribe to Turtle Sketches|Sketches Template added to your list of playgrounds]], renamed to be titled *Custom Gig Poster*
-- [ ] Your black, hardcover, graph paper notebook
 - [ ] Writing instruments, including a ruler or straight edge
 
 ## Success criteria
@@ -69,47 +68,9 @@ Loosely follow the [style of Swiss modernism as illustrated by Mike Joyce's work
 
 - [ ] poster must be for an [actual concert that occurred in the past](https://www.concertarchives.org)
 
-
 ## Exemplar
 
-### Plan
-
-Any of the plans shared for lessons in this module would be suitable:
-
-- [[Blur Poster|Blur]]
-	- Good example identifying sequence (order to draw things in)
-	- How to use iteration (analysis to determine where loop)
-- [[Replacements Poster|Replacements]]
-	- Identifies sequence
-	- Analyses where functions might be used
-	- Details on how to draw parts of design shown
-- [[Refused Poster|Refused]]
-	- Good detail anlaysing how two loops can be used to draw pattern
-
-### Process
-
-You *must* post about your progress at multiple points while you write your code.
-
-Here is an example from last year:
-
-![[Screenshot 2023-12-05 at 8.25.19 PM.png|700]]
-
-![[Screenshot 2023-12-05 at 8.25.40 PM.png|700]]
-
-![[Screenshot 2023-12-05 at 8.26.06 PM.png|700]]
-
-> [!NOTE]
-> Last year students used slightly different portfolio software.
-
-In your portfolio entries, share screenshot(s) of your current work in the **Progress section**.
-
-In the **Learning** section, briefly summarize key achievements using subject-specific vocabulary.
-
-In the **Questions** section, ask about anything that you need a hand with, and Mr. Gordon will reply or be ready to answer your question in the next class.
-
-### A complete exemplar
-
-Mr. Gordon completed this task, too. [View his work here to see a complete exemplar](https://www.notion.so/lakefieldcs/868d23e3bf67415b92f37f61086d6d3f?v=3ab707db12414dd68a511df18241f84c&pvs=4) for how to meet and exceed expectations.
+Mr. Gordon authored a complete exemplar for this task, creating a poster for [Sloan](https://sloanmusic.com), one of his favourite bands. [View his work here](https://www.notion.so/lakefieldcs/868d23e3bf67415b92f37f61086d6d3f?v=3ab707db12414dd68a511df18241f84c&pvs=4) to see how you can meet and exceed expectations.
 
 ## Handing in your work
 
@@ -122,7 +83,7 @@ When you have finished the code for this task, please complete the **Coding Task
 
 ## Due date
 
-You must add all required elements described above in to your portfolio *prior* by the end of our final period on Friday, November 29, 2024.
+You must add all required elements described above in to your portfolio *prior* to the end of our final period on **Thursday, December 19, 2024**.
 
 No exceptions – please, plan ahead – everything will take longer than you expect to finish. 
 

@@ -1,1 +1,1 @@
-./source-icd2o/s1-jones/Key Links.md
+source-icd2o/s2-gordon/Key Links.md

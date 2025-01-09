@@ -1,1 +1,1 @@
-./source-icd2o/s1-jones/index.md
+source-icd2o/s2-gordon/index.md

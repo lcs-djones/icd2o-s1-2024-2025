@@ -2,7 +2,7 @@
 draft: false
 draftSectionTwo: false
 created: 2024-11-21T07:00:00.000-0400
-createdForSectionTwo: 2024-11-21T07:00:00.000-0400
+createdForSectionTwo: 2024-12-06T07:00:00.000-0400
 tags:
   - A1.1
   - A1.2
@@ -37,9 +37,9 @@ for i in stride(from: 300, through: 801.0, by: 100.0) {
 
 ... where the variable `i` that is created by the loop is used as the argument for the `width` and `height` parameters when invoking the `drawEllipse` function.
 
-All of this is illustrated in the following animation:
+All of this is illustrated in the following super-short video:
 
-![[Sonic Youth.gif]]
+![[Sonic Youth.mp4]]
 
 ## Going loopy
 
@@ -59,7 +59,7 @@ The grid allows for some analysis to occur:
 
 By recognizing that the width of the poster is $801$ pixels, and that there are five circles in a row, we can determine that the width of each circle is $160$ pixels:
 
-$$801 \div 5 = 160$$
+$$800 \div 5 = 160$$
 
 We know that circles are anchored at their centre point.
 
@@ -104,7 +104,7 @@ We use these numbers to position each circle horizontally:
 
 You can see the result animated here:
 
-![[Refused – One Row.gif]]
+![[Refused – One Row.mp4]]
 
 We don't have to do the arithmetic ourselves – we just have to spot the pattern – and then describe that pattern in the code we write. 🎉
 
@@ -156,9 +156,9 @@ for i in stride(from: -400 + 80,
 }
 ```
 
-All of that is illustrated here – be sure to watch this animation several times to really see what is happening – pay close attention to the values of `i` and `j`:
+All of that is illustrated here – be sure to watch this mini-video several times to really see what is happening – pay close attention to the values of `i` and `j`:
 
-![[Nested Loops.gif]]
+![[Nested Loops.mp4]]
 
 ## Exercise: Iggy Pop
 
@@ -170,8 +170,13 @@ Here is the poster with a grid:
 
 ![[iggy pop - with grid copy.png|801]]
 
-> [!NOTE]
+> [!TIP]
+> 
 > Use the [planning sheet provided in class](https://www.russellgordon.ca/lcs/2023-24/icd2o/iggy_pop_-_planning_sheet.pdf) to analyse the poster in the same manner as was shown earlier in this tutorial.
+> 
+> It is worth noting that a circle is located on the by its centre-point. 
+> 
+> Begin by analyzing the centre-point of each of these circles, and the distance between each centre-point, as you learned how to do in this lesson.
 
 
 

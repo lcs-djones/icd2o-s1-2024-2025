@@ -4,7 +4,7 @@ draft: true
 draftSectionTwo: false
 enableToc: false
 excludeBacklinks: true
-createdForSectionTwo: 2024-10-25T00:00:00.000-0400
+createdForSectionTwo: 2024-10-25T07:00:00.000-0400
 tags:
 notes: Remember to add the 'Coding Task - Final Entry' template to each student's portfolio on Notion before this class. After the Going Home Again exercise, add the link to the example code.
 ---

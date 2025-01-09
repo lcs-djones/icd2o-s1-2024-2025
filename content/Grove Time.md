@@ -1,1 +1,1 @@
-./source-icd2o/s1-jones/Grove Time.md
+source-icd2o/s2-gordon/Grove Time.md

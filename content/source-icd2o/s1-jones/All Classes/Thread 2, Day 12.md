@@ -7,7 +7,6 @@ enableToc: false
 excludeBacklinks: true
 tags:
 ---
----
 ## Agenda
 1. Task: [[Gig Poster]]
 	- Finish this task today, being certain to add a [final post to your portfolio](https://www.notion.so/lakefieldcs/Thread-2-Day-16-Custom-Gig-Poster-Final-Entry-e60141cc765243aca12ae449ed4e0bfe?pvs=4).

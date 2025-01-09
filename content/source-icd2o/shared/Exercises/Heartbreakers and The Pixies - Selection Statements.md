@@ -1,8 +1,8 @@
 ---
 draft: false
-draftSectionTwo: true
+draftSectionTwo: false
 created: 2024-11-22T07:00:00.000-0400
-createdForSectionTwo: 2024-11-22T07:00:00.000-0400
+createdForSectionTwo: 2024-12-09T07:00:00.000-0400
 tags:
   - A1.1
   - A1.2
@@ -45,15 +45,41 @@ In this discussion, we will look at `if` statements.
 
 The general syntax is:
 
-![[Pasted image 20221216083514.png|225]]
+```swift
+if condition {
+	// code that runs only when condition is true
+}
+```
 
 In that example, only when the `condition` evaluates to `true` does the block of code inside the `{ }` brackets get selected to be run. Otherwise, the block of code is skipped.
 
 Here is another example:
 
-![[Pasted image 20221216083829.png|175]]
+```swift
+if condition {
+	// code that runs when condition is true
+} else {
+	// code that runs when condition is false
+}
+```
 
 In this example, when the `condition` is `true` the first block of code runs. Otherwise, `else`,  the second block of code runs.
+
+If needed, we can add additional `else if` branches to the selection statement – as many as needed – to check for other conditions:
+
+```swift
+if condition1 {
+	// code
+} else if condition2 {
+	// code
+} else {
+	// code that runs when no listed condition is true
+}
+```
+
+> [!NOTE]
+> 
+> Conditions – branches – are run in order. Once a given `condition` evaluates to `true`, all remaining branches are skipped – they are not evaluated.
 
 ## Application in Heartbreakers poster
 
@@ -130,6 +156,14 @@ In certain circumstances it is useful to check multiple conditions with an `if` 
 
 Should we want to select a block of code to be run only when *both* conditions are true, we use the `&&` operator, which is read as "and".
 
+In general:
+
+```swift
+if condition1 && condition2 {
+	// code that runs when both conditions are true
+}
+```
+
 For example:
 
 ![[Screenshot 2022-12-16 at 2.01.18 PM.png|475]]
@@ -137,6 +171,14 @@ For example:
 ### Logical OR
 
 Should we want to select a block of code to be run when *either* conditions are true, we use the `||` operator, which is read as "or".
+
+In general:
+
+```swift
+if condition1 || condition2 {
+	// code that runs when either condition is true
+}
+```
 
 For example:
 
@@ -157,7 +199,7 @@ Here is the poster with a grid:
 
 > [!TIP]
 > It will be helpful to have the following code in your program at some point, to see the position and co-ordinates of each circle:
-> ```
+> ```swift
 > // Draw the co-ordinates of the anchor point
 > turtle.drawText(message: "(\(i), \(j))",
 > 				at: Point(x: i - 30,

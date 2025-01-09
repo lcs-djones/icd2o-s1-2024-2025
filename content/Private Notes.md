@@ -1,1 +1,1 @@
-./source-icd2o/s1-jones/Private Notes.md
+source-icd2o/s2-gordon/Private Notes.md

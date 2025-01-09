@@ -1,8 +1,8 @@
 ---
 draft: false
-draftSectionTwo: true
+draftSectionTwo: false
 created: 2024-11-08T07:00:00.000-0400
-createdForSectionTwo: 2024-11-05T07:00:00.000-0400
+createdForSectionTwo: 2024-12-02T07:00:00.000-0400
 tags:
   - A1.1
   - A1.2
@@ -110,7 +110,8 @@ The code above will produce the following result:
    ![[Screen Shot 2022-12-06 at 1.14.49 PM.png|400]]
    
    > [!HINT]
-   > It may be helpful to consider a *mathematical expression* involving addition, subtraction, multiplication, or division that would let you use the existing loop to draw the green lines.
+   > 
+   > It may be helpful to consider a _mathematical expression_ involving addition, subtraction, multiplication, or division that would let you use the existing loop to draw the green lines.
    
 3. Finally, make changes to your plan and code to express the final corner of lines, shown here in purple:
    
