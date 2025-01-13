@@ -1,7 +1,7 @@
 ---
 transcludeTitleSize: h2
 created: 2025-01-13T07:00:00.000-0400
-draft: true
+draft: false
 draftSectionTwo: true
 enableToc: false
 excludeBacklinks: true
@@ -9,10 +9,8 @@ tags:
 ---
 ## Agenda
 1. Task: [[Themed Chess Pieces]]
-	- Finish your Themed Chess pieces and ensure that all of your files are submitted
-2. Portfolio: [[Themed Chess Pieces Notion Reflection]]
-	- Copy paste these reflection questions and answer them in your Notion post
+	- Continue working on your chess pieces from yesterday's class
 
 ## Things to do before our next class
 
-- [ ] Make a portfolio post [on Notion](https://notion.so) with the [[Themed Chess Pieces Notion Reflection|premade reflection questions]]
+- [ ] Make a portfolio post [on Notion](https://notion.so) and summarize what you've learned today about 3D printing and your progress on designing your chess pieces.

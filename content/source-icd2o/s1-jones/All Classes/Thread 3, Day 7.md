@@ -8,7 +8,7 @@ excludeBacklinks: true
 tags:
 ---
 ## Agenda
-1. Start working on [[Landmarks and Iconic Structures Day 3]]
+1. Start working on [[Landmarks and Iconic Structures Day 2]]
 
 ## Things to do before our next class
 

@@ -53,8 +53,15 @@ When designing your chess piece in TinkerCad, keep in mind scale! Your chess pie
 
 ![[Pasted image 20241223150303.png]]
 
->[!tip] You can copy/paste designs from one project to another on TinkerCad. If you run out of space on your workplane making the pieces, create another project and then when you are finished, copy/paste them all into one project.
->![[TinkerCadCopyPaste.mp4]]
+
+You can copy/paste designs from one project to another on TinkerCad. If you run out of space on your workplane making the pieces, create another project and then when you are finished, copy/paste them all into one project.
+
+ <div style="padding:56.25% 0 0 0;position:relative;">
+	<iframe src="https://player.vimeo.com/video/1045839040?h=4dcfdb437d&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479&portrait=0&byline=0&title=0" frameborder="0" allow="autoplay; fullscreen; picture-in-picture; clipboard-write" style="position:absolute;top:0;left:0;width:100%;height:100%;" title="Opening the Teamspace">
+	</iframe>
+	</div>
+ <script src="https://player.vimeo.com/api/player.js"></script>
+
 
 When you are done one of your pieces, receive one more piece of kind, specific and helpful constructive feedback. Make the recommended change and note of it in your Notion post for today. When your pieces are done, follow the [[File submission (TinkerCAD)|file submission standards]]. 
 

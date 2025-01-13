@@ -1,6 +1,6 @@
 ---
 transcludeTitleSize: h2
-created: 2025-01-16T07:00:00.000-0400
+created: 2025-01-20T07:00:00.000-0400
 draft: true
 draftSectionTwo: true
 enableToc: false
@@ -8,7 +8,7 @@ excludeBacklinks: true
 tags:
 ---
 ## Agenda
-1. Start working on [[Landmarks and Iconic Structures Day 1]]
+1. Start working on [[Landmarks and Iconic Structures Day 3]]
 
 ## Things to do before our next class
 
