@@ -8,7 +8,9 @@ excludeBacklinks: true
 tags:
 ---
 ## Agenda
-1. Start working on [[Landmarks and Iconic Structures Day 3]]
+1. Task [[Landmarks and Iconic Structures]]
+2. Portfolio: [[File submission (TinkerCAD)|submit your Landmark/Iconic structure]]
+3. Portfolio:
 
 ## Things to do before our next class
 
