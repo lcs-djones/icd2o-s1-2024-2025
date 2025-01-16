@@ -1,7 +1,7 @@
 ---
 draft: false
 draftSectionTwo: true
-created: 2025-01-15T07:00:00.000-0400
+created: 2025-01-20T07:00:00.000-0400
 createdForSectionTwo: 2024-10-07T07:00:00.000-0400
 tags:
 ---
@@ -14,7 +14,7 @@ Copy paste these end of project reflection questions into your notion post for t
 
 2. Which piece in your set best represents your theme, and why?
 
-3. Were there any challenges in making your chess pieces recognizable as specific roles (Pawn, Rook, etc.)? How did you overcome them?
+3. Were there any challenges in making your chess pieces recognizable as specific landmarks or your iconic structure? How did you overcome them?
 
 4. What was the most helpful piece of feedback you received, and how did it impact your final design?
 
@@ -24,7 +24,7 @@ Copy paste these end of project reflection questions into your notion post for t
 
 7. What techniques or tools in TinkerCad did you utilize for this project? How did they enhance your designs?
 
-8. How did you ensure your chess pieces were realistically printable?
+8. How did you ensure your landmark or iconic structure were realistically printable?
 
 9. Do you feel your chess set meets the success criteria? Why or why not?
 

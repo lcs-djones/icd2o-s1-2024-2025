@@ -9,8 +9,10 @@ tags:
 ---
 ## Agenda
 1. Task [[Landmarks and Iconic Structures]]
-2. Portfolio: [[File submission (TinkerCAD)|submit your Landmark/Iconic structure]]
-3. Portfolio:
+	- Complete your project this class
+1. Portfolio: [[File submission (TinkerCAD)|Submit your Landmark/Iconic structure]]
+2. Portfolio: [[Landmarks and Iconic Structures Notion Reflection]]
+	- Copy paste these reflection questions and answer them in your Notion post using full, thoughtful and reflective sentences
 
 ## Things to do before our next class
 
