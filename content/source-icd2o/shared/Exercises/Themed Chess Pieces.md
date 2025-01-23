@@ -38,7 +38,7 @@ Draw out your 6 chess pieces (Pawn, Rook, Knight, Bishop, Queen & King) on graph
 ## Peer Feedback
 Show your sketches to a peer. The peer should give you 3 pieces of constructive feedback for your sketches. This feedback can be with regards to your theme, your model printing success or anything else that is relevant. The three pieces of constructed feedback that you receive should be included in your notion post so make sure you write them down!
 
->[!remember] >Constructive feedback needs to be
+>[!remember] Constructive feedback needs to be
 >1. Helpful
 >2. Specific
 >3. Kind
@@ -46,7 +46,7 @@ Show your sketches to a peer. The peer should give you 3 pieces of constructive 
 >[!example]
 >> "It is really good, I think it looks cool. There is some stuff that you could fix like the top of it" is **KIND**, but it is not **SPECIFIC**, or **HELPFUL**
 >> 
->>"The proprotions of your windows are really accurate! The columns are really close to accurate but are a bit off near the top as they look thinner than the real thing. If you use the technique you did for the windows on the columns to get them more accurate, I think it would really elevate your project!" is an example of **GOOD** peer feedback.
+>>"The proportions of your windows are really accurate! The columns are really close to accurate but are a bit off near the top as they look thinner than the real thing. If you use the technique you did for the windows on the columns to get them more accurate, I think it would really elevate your project!" is an example of **GOOD** peer feedback.
 
 ## 3D Modelling 
 When designing your chess piece in TinkerCad, keep in mind scale! Your chess pieces should be close to these standardized sizes! (Creative liberties are exceptions within reason)

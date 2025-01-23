@@ -8,7 +8,7 @@ excludeBacklinks: true
 tags:
 ---
 ## Agenda
-1. Task: [[Landmarks and Iconic Structures]]
+1. Exercise: [[Balloon Powered Car]]
 	- Continue working on your Landmark or Iconic structure recreation in TinkerCad
 ## Things to do before our next class
 

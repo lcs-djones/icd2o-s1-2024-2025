@@ -27,7 +27,7 @@ Ensure that you are on our classroom for TinkerCad and review the [[File submiss
 - [ ] The model has functioning wheels that can rotate during motion
 - [ ] You consistently give and receive peer feedback that is used to influence and adapt your design
 - [ ] Your design and iteration process is shown throughout the assingment
-- [ ] The final model is realistic for 3D printing and adheres to the[[3D Printing Principles and Rules]]
+- [ ] The final model is realistic for 3D printing and adheres to the [[3D Printing Principles and Rules]]
 
 ## Sketch and Design
 Draw your initial plan for the car on graph paper. Label key elements such as

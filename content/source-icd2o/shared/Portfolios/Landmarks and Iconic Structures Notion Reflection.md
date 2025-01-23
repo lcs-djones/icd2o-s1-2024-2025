@@ -10,11 +10,9 @@ tags:
 Copy paste these end of project reflection questions into your notion post for the day
 
 
-1. Why did you choose your specific theme, and how do you think it influenced your designs?
+1. Why did you choose your specific landmark, and how do you think it influenced your designs?
 
-2. Which piece in your set best represents your theme, and why?
-
-3. Were there any challenges in making your chess pieces recognizable as specific landmarks or your iconic structure? How did you overcome them?
+3. Were there any challenges in making your model recognizable as specific landmarks or your iconic structure? How did you overcome them?
 
 4. What was the most helpful piece of feedback you received, and how did it impact your final design?
 
@@ -26,6 +24,6 @@ Copy paste these end of project reflection questions into your notion post for t
 
 8. How did you ensure your landmark or iconic structure were realistically printable?
 
-9. Do you feel your chess set meets the success criteria? Why or why not?
+9. Do you feel your landmark meets the success criteria? Why or why not?
 
 10. How can the skills and knowledge you gained from this project be applied to other areas of design or problem-solving?
