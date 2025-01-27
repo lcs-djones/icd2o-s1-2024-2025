@@ -8,8 +8,8 @@ excludeBacklinks: true
 tags:
 ---
 ## Agenda
-1. Task: [[Landmarks and Iconic Structures]]
-	- Continue working on your Landmark or Iconic structure recreation in TinkerCad
+1.  Exercise: [[Diorama Creation]]
+	- Continue working on your diorama recreation in TinkerCad
 ## Things to do before our next class
 
-- [ ] Make a portfolio post [on Notion](https://notion.so) and summarize what you've learned today about 3D printing and your progress on designing your chess pieces.
+- [ ] Make a portfolio post [on Notion](https://notion.so) and summarize what you've learned today about 3D printing, your peer feedback and your progress on designing your diorama.
