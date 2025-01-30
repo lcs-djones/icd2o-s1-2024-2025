@@ -10,12 +10,9 @@ The end of the module is upon us, and your final task is to complete your self-a
 
 ## Create your entry
 
-Copy paste the provided template into a new Notion paste and title the Notion post "Thread 3 Self assessment"
+Go to Notion, click the small arrow at right beside the blue **New** button, then select the **Thread 3 Self-Assessment** option.
+
+![[![[Pasted image 20250129143239.png]]]]
+
 Fill in the template provided.
-
-# Learning Skills
-
-_Please consider your approach to learning within this module, and complete the table below._
-
-**💡TIP** You can copy-paste this checkmark to use when completing the table below: ✔️
 

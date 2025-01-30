@@ -7,7 +7,7 @@ createdForSectionTwo: 2024-10-17T07:00:00.000-0400
 
 >[!warning]
 >> This project will not be 3D printed. This is to give me time to catch up on prints that need to be done and reduce our plastic usage.
->>> This means that you may *ignore* the principles of creating printable models. Feel free to have as many overhangs
+>>> This means that you may *ignore* the principles of creating printable models. Feel free to have overhangs
 
 ![[Pasted image 20250126210833.png]]
 ## Objective
@@ -17,6 +17,7 @@ Design and create a 3D diorama that replicates a room of your choosing. This cou
 Your diorama should include essential elements that define the space (e.g., furniture, lighting, or other significant details). It should be constructed to reflect scale and proportion accurately.
 
 Since these will not be printed, make them complex and accurate. Use any built in tools/models that are available without importing into TinkerCad
+
 ![[Pasted image 20250126211015.png]]
 ---
 
