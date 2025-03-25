@@ -23,7 +23,7 @@ Since these will not be printed, make them complex and accurate. Use any built i
 
 ## What you'll need to begin
 
-1. Ensure you are enrolled in our classroom for TinkerCAD and review the [[File submission (TinkerCAD)|file submission standards]] as well as the [[3D Printing Principles and Rules]].
+1. Ensure you are enrolled in our classroom for TinkerCAD and review the [[Submitting files from Tinkercad|file submission standards]] as well as the [[3D Printing Principles and Rules]].
 2. Have a pencil, graph paper, and a ruler for sketching.
 3. Choose a partner to give and receive peer feedback.
 
@@ -81,4 +81,4 @@ Begin creating your 3D diorama in TinkerCAD based on your sketches.
 
 ## Submission
 
-When your diorama is complete, follow the [[File submission (TinkerCAD)|file submission standards]]. 
+When your diorama is complete, follow the [[Submitting files from Tinkercad|file submission standards]]. 

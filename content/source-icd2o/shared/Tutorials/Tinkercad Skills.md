@@ -1,13 +1,13 @@
 ---
 draft: false
-draftSectionTwo: true
+draftSectionTwo: false
 created: 2025-01-09T07:00:00.000-0400
-createdForSectionTwo: 2024-10-18T07:00:00.000-0400
+createdForSectionTwo: 2025-02-03T07:00:00.000-0400
 ---
 
 ## Tutorials
 
-TinkerCad has some fantastic built in tutorials that will help you learn the basics of the program.
+Tinkercad has some fantastic built-in tutorials that will help you learn the basics of the program.
 
 Navigate to the left hand side of the website and find **Tutorials**.
 
@@ -31,8 +31,8 @@ Then continue working on the tutorials until you have completed all of them:
 10. Align it
 11. Creating holes
 12. Camera controls
-13. "Let's Learn TinkerCad"
+13. "Let's Learn Tinkercad"
 
 > [!TIP]
 >
-> This may seem like a *lot*, but these are fundamental skills for three-dimensional object design. Your effort has value. I will monitor your progress to support your learning.
+> This may seem like a *lot*, but these are fundamental skills for three-dimensional object design. Your effort has value. Mr. Gordon and Mr. Jones will monitor your progress to support your learning. Do not hesitate to ask questions as needed.

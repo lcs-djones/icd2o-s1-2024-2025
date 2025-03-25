@@ -6,6 +6,11 @@ draftSectionTwo: true
 
 Day|Time|SIC|Location
 -|-|-|-
+Tuesday, February 25|12:30 PM to 1:00 PM|Ben|Room 6
+Friday, February 28|12:30 PM to 1:00 PM|Nikita|Room 6
+
+Day|Time|SIC|Location
+-|-|-|-
 Tuesday|1:00 PM to 1:30 PM|Ben|Room 6
 Wednesday|1:00 PM to 1:30 PM|Nikita|Room 6
 

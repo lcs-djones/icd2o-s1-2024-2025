@@ -9,4 +9,4 @@ They are friendly, very knowledgeable, and staff drop-in sessions as well – si
 
 > [!NOTE]
 > 
-> For the first week back from December Break, there will be no SIC drop-in sessions offered.
+> In this week immediately after March Break, there are no SIC Drop-In Sessions scheduled.

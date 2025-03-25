@@ -2,7 +2,7 @@
 draft: false
 draftSectionTwo: false
 created: 2025-01-30T07:00:00.000-0400
-createdForSectionTwo: 2024-12-19T07:00:00.000-0400
+createdForSectionTwo: 2025-03-05T07:00:00.000-0400
 tags:
 ---
 
@@ -12,7 +12,7 @@ The end of the module is upon us, and your final task is to complete your self-a
 
 Go to Notion, click the small arrow at right beside the blue **New** button, then select the **Thread 3 Self-Assessment** option.
 
-![[![[Pasted image 20250129143239.png]]]]
+![[Pasted image 20250129143239.png|300]]
 
 Fill in the template provided.
 

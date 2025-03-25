@@ -12,7 +12,7 @@ Ensure that you have all steps from [[Landmarks and Iconic Structures| the start
 Review your TinkerCad model to ensure that it is ready for 3D printing. Check for any potential printing issues such as overhangs, unsupported areas, or structural weaknesses. Make any necessary modifications to optimize the design for successful 3D printing while preserving its integrity and authenticity.
 
 ## File submission
-Follow the [[File submission (TinkerCAD)| file submission standards]] to submit your project.
+Follow the [[Submitting files from Tinkercad| file submission standards]] to submit your project.
 
 >[!warning] 
 >Let Mr. Jones know when your file is submitted so that I can add it to the print queue
