@@ -10,8 +10,6 @@ tags:
 ## Agenda
 1. Setup: [Khan Academy Self-Paced Study](https://www.khanacademy.org/join/YQFWDVFJ)
 	- Please follow the link to join our class on Khan Academy.
- 
-
 2. Concept: [[PII, Data Tracking, Cyberattacks]]
 	- As a class, we will look at safe computing – exploring what personally identifiable information (PII) is and how to control access to your PII.
 	- We will also examine types of cyberattacks and how to protect our computing devices.
