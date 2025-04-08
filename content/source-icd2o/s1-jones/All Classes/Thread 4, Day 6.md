@@ -10,6 +10,7 @@ tags:
 ## Agenda
 1. Concept: [[Computer Hardware Components]]
 	- The final group will work with Mr. Jones today to learn how to disassemble and assemble a desktop computer, and name its major components.
+	- For a reminder about how to submit a video flythrough, refer to [[Reviewing a Design]]
 2. Exercise: [[Driving a Plotter or Laser Cutter]]
 	- When you are not learning about computer hardware, you will work with Mr. Gordon to continue using TurtleStitch.
 	- Learn how to generate SVG files that can be sent to a plotter or laser cutter.
