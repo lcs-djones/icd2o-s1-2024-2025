@@ -11,7 +11,7 @@ tags:
 1. Task: [[Culminating Task]]
 	- Using a think-pair-share protocol, you will work to understand the requirements of the culminating task.
 	- Then, you will have some time to decide on what you'd like to do, and begin your plan.
-	- For a reminder about how to submit a video flythrough, refer to [[Reviewing a Design]]
+	- For a reminder about how to submit a video fly-through, refer to [[Reviewing a Design]]
 
 > [!NOTE]
 > 
