@@ -20,7 +20,7 @@ tags:
 			> 
 			> Interview slides must be completed by 10 PM this evening – that is when Mr. Jones will make a copy of your slide deck – you will present from that slide deck tomorrow (Thursday) morning.
 			- Here is the schedule tomorrow morning's interviews, as determined by random selection in today's class:
-			  `<< placeholder for order of interviews >>`
+			  ![[Pasted image 20250528142951.png]]
 		- Mr. Gordon will now speak briefly about how to use the slide deck.
 		- Use the rest of today's class to prepare your slide deck.
 
