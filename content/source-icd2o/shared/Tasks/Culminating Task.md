@@ -2,7 +2,7 @@
 draft: false
 draftSectionTwo: false
 created: 2024-04-07T07:00:00.000-0400
-createdForSectionTwo: 2024-12-13T07:00:00.000-0400
+createdForSectionTwo: 2025-05-01T07:00:00.000-0400
 tags:
 ---
 
@@ -14,7 +14,7 @@ These requirements are provided in the form of a fill-in-the-blanks template.
 
 ## Exemplars
 
-Mr. Jones and Mr. Gordon are authoring complete exemplars for the two options you have for the culminating task.
+Mr. Jones and Mr. Gordon have authored complete exemplars for the two options you have for the culminating task.
 
 Please follow the links below to review these exemplars:
 
